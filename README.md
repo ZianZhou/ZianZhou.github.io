@@ -9,5 +9,5 @@ this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ![A2b](screenshots/A2b.png)
 
 ## Activity 3
-![A2a](screenshots/A3a.png)
-![A2b](screenshots/A3b.png)
+![A3a](screenshots/A3a.png)
+![A3b](screenshots/A3b.png)
